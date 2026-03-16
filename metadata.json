@@ -1,0 +1,5 @@
+{
+  "name": "Pulse Runner",
+  "description": "A browser-playable 3D endless sci-fi lane runner prototype built with React and Babylon.js.",
+  "requestFramePermissions": []
+}
